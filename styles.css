@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+div{
+	display:flex;
+	justify-content:space-between;
+}
